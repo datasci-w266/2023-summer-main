@@ -4,7 +4,7 @@
 [Course Evaluation](#course-evaluation)  
 [Final Project](#final-project)  
 [Course Resources](#course-resources)  
-[Tentative Schedule and Readings](#tentative-schedule-and-readings)  
+[Tentative Schedule and Readings](#tentative-schedule-and-readings)
 
 
 ## Course Overview
@@ -36,7 +36,7 @@ By the completion of this course, students will be able to:
 **Communication and Resources**
 
 * Course website: [GitHub datasci-w266/2023-summer-main](../../../)
-* [Ed Discussion](https://edstem.org/us/join/TBD): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
+* [Ed Discussion](https://edstem.org/us/join/PQKJeK): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
 * Email list for course staff (expect a somewhat slower response here): [mids-nlp-instructors@googlegroups.com](mailto:mids-nlp-instructors@googlegroups.com)
 
 
@@ -259,7 +259,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* Assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/1vv)]
+### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/1mdvBD5_K03i3XvKITHrSV4IjubBKOCac?usp=sharing)]
 
 ### Deliverables
 

@@ -10,7 +10,7 @@ Take some time to read through these - the more familiar you are with this backg
 
 * [Probability](Probability.ipynb)
 * [Linear Algebra](Linear%20Algebra.ipynb)
-* [Gradient Descent](Gradient%20Descent.ipynb) and [TensorFlow](../../assignment/a2/tensorflow/tensorflow.ipynb)
+* [Gradient Descent](Gradient%20Descent.ipynb) and [TensorFlow](../../assignment/a1/tensorflow/tensorflow.ipynb)
 
 ## [Probability](Probability.ipynb)
 
@@ -52,5 +52,5 @@ We'll use TensorFlow with Keras frequently in this course, as the main framework
 
 Most neural networks are trained using variants of the Gradient Descent algorithm. This works well for a broad array of models, but often requires some tuning and attention. In the [Gradient Descent](Gradient%20Descent.ipynb) notebook, we'll use gradient descent to solve a simple linear regression problem and learn about a few important hyperparameters. If you're rusty on ML, we recommend starting with this notebook before undertaking the TensorFlow tutorial.
 
-In the [TensorFlow](../../assignment/a2/tensorflow.ipynb) notebook, we'll introduce the basics of the TensorFlow Python API and implement a simple neural network on toy data, similar to the [TensorFlow Playground](https://github.com/tensorflow/playground).
+In the [TensorFlow](../../assignment/a1/tensorflow.ipynb) notebook, we'll introduce the basics of the TensorFlow Python API and implement a simple neural network on toy data, similar to the [TensorFlow Playground](https://github.com/tensorflow/playground).
 
