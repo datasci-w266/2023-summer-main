@@ -87,7 +87,7 @@ For project ideas, take a look at the final projects from [previous](example-com
 
 Additionally, we've put some of the top projects from previous semesters in [a drive folder](https://drive.google.com/drive/folders/14x3YKhhHAuhnzXxN8Os1JhcEwuGe9IAt?usp=sharing).  The folder and its contents are available for viewing to anyone with a berkeley.edu email address.
 
-Also see below for NLP conferences - [ACL](https://www.aclweb.org/anthology/events/acl-2020/) and [EMNLP](https://www.aclweb.org/anthology/events/emnlp-2020/) are the top two, and you can find plenty of interesting ideas from the recent proceedings!
+Also see below for NLP conferences - [ACL](https://www.aclweb.org/anthology/events/acl-2022/) and [EMNLP](https://www.aclweb.org/anthology/events/emnlp-2022/) are the top two, and you can find plenty of interesting ideas from the recent proceedings!
 
 
 ## Project Proposal
@@ -109,7 +109,7 @@ You must include four references to relevant papers for the technique and/or dat
 - [NIPS](https://papers.nips.cc/) and [ICML](http://proceedings.mlr.press/v97/) are the top machine learning conferences; these are good places to look if you want to use neural networks.
 - [Google Scholar](https://scholar.google.com/) and the [arXiv](https://arxiv.org/) are great to find specific papers.
 
-This year’s NLP conferences might be good for inspiration as well, or if you just want a sense of what people in the field are working on: [NAACL](https://aclanthology.org/events/naacl-2021/), [ACL](https://aclanthology.org/events/acl-2021/), [EMNLP](https://aclanthology.org/events/emnlp-2021/).
+Last year’s NLP conferences might be good for inspiration as well, or if you just want a sense of what people in the field are working on: [NAACL](https://aclanthology.org/events/naacl-2022/), [ACL](https://aclanthology.org/events/acl-2022/), [EMNLP](https://aclanthology.org/events/emnlp-2022/).
 
 Between Week 2 and Week 4, the instructors will be holding special discussion sections (during OH) to talk about how to search the literature and read NLP papers. Each session will also include a guided discussion of a specific paper. We'll release a schedule and a list of papers each week in the semester.
 
