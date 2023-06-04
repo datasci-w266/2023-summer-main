@@ -623,7 +623,7 @@ will be released around the last live session of the week and due approximately 
   <li>NLP Review
   </ul></td>
   <td><ul>
-	<li>TBD
+	<li><li>Read: <a href="https://arxiv.org/pdf/2305.15324.pdf" target="_blank">Model evaluation for extreme risks</a> (Shevlane et. al. 2023)
   </ul>
   <p>
   </td>
