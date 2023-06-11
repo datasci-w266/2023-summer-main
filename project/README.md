@@ -113,8 +113,8 @@ Last year’s NLP conferences might be good for inspiration as well, or if you j
 
 Between Week 2 and Week 4, the instructors will be holding special discussion sections (during OH) to talk about how to search the literature and read NLP papers. Each session will also include a guided discussion of a specific paper. We'll release a schedule and a list of papers each week in the semester.
 
-Please write your proposal in a Google Doc (shared with comment access to anyone with the link) and submit a link to you proposal via [this form](https://forms.gle/wait).  We'll provide feedback as in-line comments, which can be more convenient than an email thread.
-_Please no Microsoft Word documents!_
+Please write your proposal in a Google Doc (shared with comment access to anyone with the link) and submit a link to you proposal via [this form](https://forms.gle/Ssm7AhHQjhBSJhSX6).  We'll provide feedback as in-line comments, which can be more convenient than an email thread.
+_Please NO Microsoft Word documents!_
 
 ## Milestone (optional)
 
